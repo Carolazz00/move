@@ -33,7 +33,7 @@ let walls = [];
 let baseSize;
 let gravityStrength = 1.0;
 
-const B_GROUP_BOOST = 1.25; // B组放大倍数（可调 1.15~1.35）
+const B_GROUP_BOOST = 1.5; // B组放大倍数（可调 1.15~1.35）
 
 // 传感器
 let hasMotion = false;
